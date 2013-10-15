@@ -1,2 +1,6 @@
 Stephen Cook
+<<<<<<< HEAD
 Daniel Portillo 
+=======
+Brian Wang (bw22485)
+>>>>>>> 72a24abb3388fc511b8a8e31b0acbc7fd3b5fd8e
